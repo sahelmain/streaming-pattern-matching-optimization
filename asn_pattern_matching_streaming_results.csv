@@ -1,0 +1,3 @@
+Algorithm,Matches,Comparisons,Time
+KMP,1,6969,0.8707156670279801
+Naive,1,6174,4.317733292002231
