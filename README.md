@@ -4,6 +4,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 [![Algorithms](https://img.shields.io/badge/Algorithms-Naive%20%7C%20KMP-orange)](https://github.com/sahelmain/streaming-pattern-matching-optimization)
 [![Performance](https://img.shields.io/badge/Performance-Benchmarked-brightgreen)](https://github.com/sahelmain/streaming-pattern-matching-optimization)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue)](VERSION)
 
 **High-performance streaming pattern matching algorithms with comprehensive benchmarking and cybersecurity applications.**
 
