@@ -1,0 +1,32 @@
+# Large data files
+data/
+*.dat
+oversampled_flow_sequences.txt
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Large generated files (optional - uncomment if you want to exclude)
+# *.png
+# *.csv 
